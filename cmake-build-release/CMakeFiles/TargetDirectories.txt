@@ -1,0 +1,3 @@
+/Users/victoriahorobets/CLionProjects/untitled/cmake-build-release/CMakeFiles/untitled.dir
+/Users/victoriahorobets/CLionProjects/untitled/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/victoriahorobets/CLionProjects/untitled/cmake-build-release/CMakeFiles/rebuild_cache.dir
